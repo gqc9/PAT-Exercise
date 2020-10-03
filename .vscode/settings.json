@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "cstdio": "cpp",
+        "algorithm": "cpp",
+        "deque": "cpp",
+        "xmemory": "cpp",
+        "xstring": "cpp",
+        "xutility": "cpp",
+        "vector": "cpp",
+        "queue": "cpp",
+        "limits": "cpp",
+        "xiosbase": "cpp",
+        "xtree": "cpp",
+        "type_traits": "cpp",
+        "xlocale": "cpp",
+        "string": "cpp",
+        "istream": "cpp",
+        "iostream": "cpp",
+        "map": "cpp"
+    }
+}
